@@ -20,6 +20,7 @@ Hi, I'm **Sanjana**, currently in my 3rd year of B.Tech at **Anurag University**
 ## 🏅 Certifications
 - **C Programming** – Infosys Springboard  
 - **Java Fundamentals** – Infosys Springboard
+- **Front End Development** – Infosys Springboard
 
 ---
 
